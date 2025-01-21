@@ -1,1 +1,1 @@
-O trajeto até o final funcionou perfeitamente, mas não tive no final logango as informações de login, tentei várias vezes e fiz o mesmo que vi pelo tutorial do vídeo do curso, mas de qualquer forma foi tudo certo o passo a passo.
+O trajeto até o final funcionou perfeitamente, mas não tive no final as informações de login, tentei várias vezes e fiz o mesmo que vi pelo tutorial do vídeo do curso, mas de qualquer forma foi tudo certo o passo a passo.
